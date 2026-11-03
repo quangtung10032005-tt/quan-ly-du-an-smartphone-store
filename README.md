@@ -29,5 +29,5 @@ Vai trò đảm nhận trong dự án: Business Analyst (BA) / Project Managemen
   + Biểu đồ tiến độ: gantt-chart.png
   + Sơ đồ mạng công việc & Đường găng: critical-path-network.png
 
-- Thư mục Kế hoạch & Tài chính (/financial-and-plans/):
+- Thư mục Kế hoạch & Tài chính (financial-and-plans):
   + File kế hoạch chi tiết, phân bổ chi phí và theo dõi tiến độ: Nhom11_hoso.xlsx

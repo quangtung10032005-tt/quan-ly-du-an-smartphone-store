@@ -4,8 +4,6 @@ Học phần: Quản lý Dự án Công nghệ Thông tin
 
 Đơn vị: Trường Công nghệ thông tin và Truyền thông – Đại học Công nghiệp Hà Nội (HaUI)  
 
-Nhóm thực hiện: Nhóm 11 (Lớp 20254IT6033001 - Khóa K18)
-
 Vai trò đảm nhận trong dự án: Business Analyst (BA) / Project Management Support
 
 1. Tổng quan dự án (Project Overview)
@@ -25,7 +23,7 @@ Vai trò đảm nhận trong dự án: Business Analyst (BA) / Project Managemen
 - [Báo cáo Chi tiết Dự án (PDF)](docs/BaoCao_QuanLyDuAn_SmartPhoneStore.pdf): Toàn bộ nội dung báo cáo hoàn chỉnh của nhóm.
 
 - Thư mục Sơ đồ quản lý (diagrams/):
-  + [Sơ đồ phân rã công việc]: (diagrams/wbs-diagram.png)
+  + Sơ đồ phân rã công việc: wbs-diagram.png
   + Biểu đồ tiến độ: gantt-chart.png
   + Sơ đồ mạng công việc & Đường găng: critical-path-network.png
 

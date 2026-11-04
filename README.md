@@ -25,7 +25,7 @@ Vai trò đảm nhận trong dự án: Business Analyst (BA) / Project Managemen
 - [Báo cáo Chi tiết Dự án (PDF)](docs/BaoCao_QuanLyDuAn_SmartPhoneStore.pdf): Toàn bộ nội dung báo cáo hoàn chỉnh của nhóm.
 
 - Thư mục Sơ đồ quản lý (diagrams/):
-  + Sơ đồ phân rã công việc: wbs-diagram.png
+  + Sơ đồ phân rã công việc: (diagrams/wbs-diagram.png)
   + Biểu đồ tiến độ: gantt-chart.png
   + Sơ đồ mạng công việc & Đường găng: critical-path-network.png
 
